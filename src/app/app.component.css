@@ -1,0 +1,14 @@
+.centrar_texto {
+  display: flex;
+  justify-content: center;
+}
+.tamanio{
+  width: 50%;
+}
+.mi_input {
+  width: 100%;
+}
+
+.guia {
+  border: 1px solid red;
+}
